@@ -1,0 +1,11 @@
+id,client,ville,restaurant,montant,statut,commission,montant_net
+1,Serge,Douala,ORA,5000.0,livree,500.0,4500.0
+2,Paul,Yaoundé,Chez Paul,7000.0,livree,700.0,6300.0
+3,Jean,Douala,ORA,4500.0,annulee,450.0,4050.0
+4,Serge,Douala,ORA,6000.0,livree,600.0,5400.0
+5,Marie,Bafoussam,Le Gourmet,8500.0,livree,850.0,7650.0
+6,Inconnue,Yaoundé,Chez Paul,3000.0,annulee,300.0,2700.0
+7,Paul,Inconnue,ORA,7500.0,livree,750.0,6750.0
+8,Jean,Douala,Le Gourmet,6333.333333333333,livree,633.3333333333334,5700.0
+9,Marie,Bafoussam,Le Gourmet,10000.0,livree,1000.0,9000.0
+10,Serge,Douala,ORA,5500.0,annulee,550.0,4950.0
